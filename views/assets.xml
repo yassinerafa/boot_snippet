@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <!-- CSS includes (compiled) -->
+    	<template id="styles_compiled" inherit_id="website.theme">
+    		<xpath expr="." position="inside">
+		        <link href="/boot_snippet/static/src/css/styles.css" rel="stylesheet"/>
+    		</xpath>	
+    	</template>
+ </data>
+</openerp>
