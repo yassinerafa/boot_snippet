@@ -11,12 +11,12 @@
 					<img class="oe_snippet_thumbnail_img" src="/boot_snippet/static/src/css/img/thumbnail.png"/>
 					<span class="oe_snippet_thumbnail_title">Bootsnippet 1</span>
 				</div>
-			</div>
-		</xpath>
+			
 		
-		 <section class="oe_snippet_body">
-            <div class="container">
-                <div class="row">
+		
+		 	<section class="oe_snippet_body">
+            			<div class="container">
+        			 	<div class="row">
 					
 								
 								<div class="[ container text-center ]">
@@ -101,9 +101,11 @@
 						</div>
 					</div>
 				</div>
-            </div>
-         </div>
-    </section>
+            		</div>
+         	</div>
+	 </section>
+    </div>
+    </xpath>
 </template>
 
 
